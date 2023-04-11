@@ -18,3 +18,11 @@ We use two USB Camera and two trackers for each camera are connected with each o
 2. Detect Cluster customers in market.
 3. Detect Staying customers in market.
 4. Detect the customer who throw away waste on market.
+
+## Testing Video Link
+- Customer enter: https://youtu.be/ltUyjvQiipo
+- Detect customer cluster: https://youtu.be/KnprahpWc0k
+- Detect littering: https://youtu.be/nkj5685UTd4
+- Detect customer staying: https://youtu.be/PPEtUZGK1yM
+- Detect customer falldown: https://youtu.be/ej0EeAZ0lzs
+- Detect aggressive customer: https://youtu.be/Coom_mWVoZU
